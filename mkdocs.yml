@@ -2,6 +2,7 @@ site_name: Humon Research Lab Knowledge Base
 
 theme:
   name: material
+  logo: assets/humon_sassy_skeleton_logo.png
   
   markdown_extensions:
   - abbr
@@ -9,3 +10,4 @@ theme:
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
+        
