@@ -9,3 +9,4 @@ based on `MkDocs Material` theme
 
 Check here -  https://squidfunk.github.io/mkdocs-material/  - for instructions on how to set it up, change the appearance, etc etc 
 
+build knowledge base/docs based on https://diataxis.fr
