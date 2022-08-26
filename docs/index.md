@@ -2,7 +2,7 @@
 
 The page is built via the `material` theme of mkdocs
 
-mkdocs lives here - 
+Documentation for `mkdocs` lives here - 
 https://www.mkdocs.org/
 
 Specifically the theme we are using lives here -
