@@ -7,4 +7,3 @@ https://www.mkdocs.org/
 
 Specifically the theme we are using lives here -
 https://squidfunk.github.io/mkdocs-material/
-
