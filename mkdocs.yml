@@ -1,8 +1,9 @@
 site_name: Humon Research Lab Knowledge Base
+site_url: https://HuMoN-Research-Lab.github.io
 
 theme:
   name: material
-  logo: assets/humon_sassy_skeleton_logo.png
+#  logo: assets/humon_sassy_skeleton_logo.png
   
   markdown_extensions:
   - abbr
@@ -10,4 +11,7 @@ theme:
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
-        
+
+nav:
+    - Home: index.md
+    - How to update these docs: how-to-update-these-docs.md
