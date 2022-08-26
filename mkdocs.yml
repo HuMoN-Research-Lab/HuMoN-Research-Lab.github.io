@@ -10,4 +10,5 @@ theme:
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
+
         
