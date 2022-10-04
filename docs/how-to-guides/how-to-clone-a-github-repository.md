@@ -1,4 +1,7 @@
 # How to clone and run a Github repository
+
+[![hackmd-github-sync-badge](https://hackmd.io/Uv9pkkvHThaNlylNjBNXlg/badge)](https://hackmd.io/Uv9pkkvHThaNlylNjBNXlg)
+
 ###### tags: diataxis, how-to, pycharm, github, documentation
 
 1. Install Pycharm 
