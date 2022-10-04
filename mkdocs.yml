@@ -12,6 +12,3 @@ theme:
       auto_append:
         - includes/abbreviations.md
 
-nav:
-    - Home: index.md
-    - How to update these docs: how-to-update-these-docs.md
