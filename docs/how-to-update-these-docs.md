@@ -1,4 +1,4 @@
-# how to update the humon lab docs
+# How to update the humon lab docs
 
 ## Background
 <p>&nbsp;</p> 
@@ -21,9 +21,11 @@ This workflow is very similar to the one we will use to update the freemocap doc
 ## How to guide - Update the humon research lab docs  
 <p>&nbsp;</p> 
 
-### Method 1: Using the Terminal
+### Method 1: Using the Terminal  
+
  Clone the repository on your computer using a terminal (I'm going to use a Windows Terminal, but it would look the same from any Command Prompt or powershell or whatever)
-    - this assumes you gave `git` installed. If you don't google "how to install git"
+    - this assumes you gave `git` installed. If you don't google "how to install git"  
+
 - in the terminal
     -  `cd` to the location you want to store the docs
     -  type `git clone https://github.com/HuMoN-Research-Lab/HuMoN-Research-Lab.github.io

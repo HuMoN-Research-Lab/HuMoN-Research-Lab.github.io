@@ -1,4 +1,7 @@
-# Welcome to the Knowledge Base for the HuMon Research Lab 
+# Home  
+
+## Welcome to the Knowledge Base for the HuMon Research Lab 
+<p>&nbsp;</p>
 
 The page is built via the `material` theme of mkdocs
 

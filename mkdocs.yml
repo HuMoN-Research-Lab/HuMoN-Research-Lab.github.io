@@ -3,6 +3,8 @@ site_url: https://HuMoN-Research-Lab.github.io
 
 theme:
   name: material
+  #features:
+   # - navigation.expand
 #  logo: assets/humon_sassy_skeleton_logo.png
   
   markdown_extensions:
@@ -12,6 +14,7 @@ theme:
       auto_append:
         - includes/abbreviations.md
 
-nav:
-    - Home: index.md
-    - How to update these docs: how-to-update-these-docs.md
+#nav:
+   # - Home: index.md
+   # - How to update these docs: how-to-update-these-docs.md
+   # - Troubleshooting: Troubleshooting
