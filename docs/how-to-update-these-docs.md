@@ -61,9 +61,13 @@ This workflow is very similar to the one we will use to update the freemocap doc
   - commit your branch to Github. Try to do this farely regularly so you don't commit a whole bucket of changes all at once, but rather a few at a time. 
   - make a Pull Request (PR) onto the `main` branch
 - When that PR is approved, it will automatically update the live docs site
----
+<p>&nbsp;</p>
 
-## Workflow for contributing to Troubleshooting 
+---
+<p>&nbsp;</p>
+
+## Workflow for contributing to Troubleshooting  
+
 - When you run into any issue that you eventually solve and you think someone else in the lab would benefit from knowing how you solved it, you should add it to the Troubleshooting folder. Here's a rough workflow to follow so we can attempt to have a standard-ish way of doing things. When making this workflow, I used this reference: [New Relic Troubleshooting Docs Guide](https://docs.newrelic.com/docs/style-guide/writing-docs/article-templates/troubleshooting-docs-guide/) and []
     
     ### 1. Problem
@@ -80,4 +84,18 @@ This workflow is very similar to the one we will use to update the freemocap doc
 
     ### 4. Related info
     
-    - A more indepth reason why the error occured. Jon, this one's for you :) 
+    - A more indepth reason why the error occured. Jon, this one's for you :)  
+    <p>&nbsp;</p>
+
+    ---
+    <p>&nbsp;</p>
+
+    ## Workflow for Literature Reviews  
+    Let's capture the important pieces of papers we read. Below is a flexible framework for you to capture notes after you read them. As you write this, keep in mind making this searchable for our future selves. 
+    ### 1. Title
+    ### 2. Date, Authors, Universities
+    ### 3. General research category
+    ### 4. What question(s) were they trying to answer?
+    ### 5. How did they attempt to answer their question?
+    ### 6. Any noteworthy results?
+    ### 7. How could this research be relevant to ours?
