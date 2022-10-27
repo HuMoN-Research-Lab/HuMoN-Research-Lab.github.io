@@ -7,3 +7,5 @@
 2. Easier but less classy? 
 - Write a summary of the article using [this workflow](../docs/Contributing_to_this_knowledge_base/Literature_Reviews.md).
 - Simply add a webpage link to the article. (potential problem with this is journal access).
+3. An In between option, seams easy-ish: 
+- Link the web version of the original publication and then Embed snippets of it into our docs using [this guide](https://facelessuser.github.io/pymdown-extensions/extensions/snippets/)

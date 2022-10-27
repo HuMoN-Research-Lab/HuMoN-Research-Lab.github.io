@@ -1,1 +1,5 @@
 mkdocs-material==8.4.1
+mkdocs-material-extensions
+mkdocs-glightbox
+pymdown-extensions
+ 

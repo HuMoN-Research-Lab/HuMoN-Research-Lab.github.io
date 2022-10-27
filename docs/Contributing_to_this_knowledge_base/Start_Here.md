@@ -1,19 +1,15 @@
-# How to update the HuMoN lab docs
+# Start Here
 
-## Background
+## Here's how this is structured
 <p>&nbsp;</p> 
+This knowledge base is a github repository. We update it like any codebase using github, with branches, commits, pull requests, approvals, merges, etc. 
 
-We're updating the docs that live on this repository- 
-https://github.com/HuMoN-Research-Lab/HuMoN-Research-Lab.github.io
-and are hosted via Github Pages at this URL - https://humon-research-lab.github.io/
+- We're updating the docs that live on [this repository](https://github.com/HuMoN-Research-Lab/HuMoN-Research-Lab.github.io)
+and are hosted via Github Pages at [this URL](https://humon-research-lab.github.io/).
 
-The page is built via the `material` theme of mkdocs
+- The page is built via the `material` theme of [mkdocs](https://www.mkdocs.org/).
 
-mkdocs lives here - 
-https://www.mkdocs.org/
-
-Specifically the theme we are using lives here -
-https://squidfunk.github.io/mkdocs-material/
+- Specifically, [this is the theme we are using](https://squidfunk.github.io/mkdocs-material/).
 
 This workflow is very similar to the one we will use to update the freemocap docs, except that the HuMoN Lab docs will be hosted via Github Pages while the freemocap docs are hosted via `readthedocs.io`
 <p>&nbsp;</p> 
@@ -69,27 +65,5 @@ This workflow is very similar to the one we will use to update the freemocap doc
 ---
 <p>&nbsp;</p>
 
-## Workflow for contributing to Troubleshooting  
 
-- When you run into any issue that you eventually solve and you think someone else in the lab would benefit from knowing how you solved it, you should add it to the Troubleshooting folder. Here's a rough workflow to follow so we can attempt to have a standard-ish way of doing things. When making this workflow, I used this reference: [New Relic Troubleshooting Docs Guide](https://docs.newrelic.com/docs/style-guide/writing-docs/article-templates/troubleshooting-docs-guide/) and []
-    
-    ### 1. Problem
-    
-    - Provide a clear, concise description of the problem the user is trying to solve. Who, what, when, where?  
-
-    ### 2. Solution(s)
-
-    - Provide an ordered list of steps to guide someone through the solution. Copy and paste useful parts of the error codes. (No screen shots. Ideally, we want to be able to search the error codes themselves).
-
-    ### 3. Cause(s)
-
-    - A highlevel paragraph of why the error happened. 
-
-    ### 4. Related info
-    
-    - A more indepth reason why the error occured. Jon, this one's for you :)  
-    <p>&nbsp;</p>
-
-    ---
-    <p>&nbsp;</p>
 
