@@ -3,16 +3,25 @@ site_url: https://HuMoN-Research-Lab.github.io
 
 theme:
   name: material
-  #features:
-   # - navigation.expand
-#  logo: assets/humon_sassy_skeleton_logo.png
+  logo: assets/skelly_freemocap_logo.png
+  favicon: assets/skelly_freemocap_favicon.ico
+  features: 
+    - navigation.tabs
+  palette:
+    scheme: freemocap
+extra_css:
+  - stylesheets/extra.css
   
-  markdown_extensions:
+markdown_extensions:
   - abbr
   - attr_list
+  - md_in_html
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
+
+plugins:
+  - glightbox
 
 #nav:
    # - Home: index.md
