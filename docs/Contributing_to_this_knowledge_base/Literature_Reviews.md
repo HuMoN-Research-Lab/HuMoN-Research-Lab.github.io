@@ -7,3 +7,8 @@ Let's capture the important pieces of papers we read. Below is a flexible framew
 ## 5. How did they attempt to answer their question?
 ## 6. Any noteworthy results?
 ## 7. How could this research be relevant to ours?
+
+<p>&nbsp;</p>
+
+### What about including images?
+Add screenshots/images of graphs/data using [this guide](https://squidfunk.github.io/mkdocs-material/reference/images/?h=images) from mkdocs. 

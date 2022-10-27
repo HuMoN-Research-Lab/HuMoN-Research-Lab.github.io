@@ -52,7 +52,10 @@ This workflow is very similar to the one we will use to update the freemocap doc
 
 - Create a new branch with your name and 'dev' in the title. Push the new branch. 
 
-- Now you can start making changes to the repo...using Vscode, PyCharm, Obsidian, etc. Make a change to a document in the `/docs/` folder OR the configuration file `mkdocs.yml`.
+- Now you can start making changes to the repo...using Vscode, PyCharm, Obsidian, etc. Make a change to a document in the `/docs/` folder OR the configuration file `mkdocs.yml`.  
+
+    - I (Kiley) personally use VsCode as my IDE, and I found [this resource](https://code.visualstudio.com/docs/languages/markdown) to be incredibly helpful for organizing markdown projects in VsCode. There are many helpful IDE specific shortcuts. 
+
 - You can PREVIEW your changes by entering the command `mkdocs serve` in the terminal
     - after you've installed `mkdocs-material` via `pip install -r requirements.txt`
 - add new pages by adding them to `nav` in the `mkdocs.yml` file
