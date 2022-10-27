@@ -1,7 +1,11 @@
 # Mkdocs_Errors  
 
 
-## Problem: 
+## Unable to publish static site with 'mkdocs serve' command
+
+<p>&nbsp;</p>
+
+### Problem: 
 When trying to preview changes made to freemocap documentation repo using the command `mkdocs serve` in the terminal, I got the following error:
 
 
@@ -14,7 +18,7 @@ When trying to preview changes made to freemocap documentation repo using the co
     Aborted with 2 Configuration Errors!
 <p>&nbsp;</p>
 
-## Solution(s)
+### Solution(s)
 Skipping to the end of many things I tried:  
 1. Make sure you're operating in a virtual environment. 
 2. Once you're in your v-env, Update mkdocs and then install the server theme. To do these, enter these commands into the terminal: 
@@ -25,12 +29,12 @@ Skipping to the end of many things I tried:
 into the terminal should give you a url that renders a static local site for you to check your changes. 
 <p>&nbsp;</p>
 
-## Cause(s)
+### Cause(s)
 1. The first problem was that I had an out of date version of mkdocs, so it didn't recognize the version of markdown my system was using.  
 2. The second problem was that I hadn't installed the right theme.
 <p>&nbsp;</p>
 
-## Related info
+### Related info
 The original error had a line that said: `...failed to load extension 'pymdownx.snippets'.`
   Stackoverflow and google helped me with a suggestion to force install pymdown like this...
 
