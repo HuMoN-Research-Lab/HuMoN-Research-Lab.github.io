@@ -1,4 +1,4 @@
-# Workflow for Literature Reviews  
+# How To Contribute to Literature Reviews  
 Let's capture the important pieces of papers we read. Below is a flexible framework for you to capture notes after you read them. As you write this, keep in mind making this searchable for our future selves.
 ## 1. Title
 ## 2. Date, Authors, Universities

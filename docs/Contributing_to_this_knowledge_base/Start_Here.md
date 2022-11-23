@@ -1,6 +1,6 @@
 # Start Here
 
-## Here's how this is structured
+## Here's how this is all structured
 <p>&nbsp;</p> 
 This knowledge base is a github repository. We update it like any codebase using github, with branches, commits, pull requests, approvals, merges, etc. 
 
