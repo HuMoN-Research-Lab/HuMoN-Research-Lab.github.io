@@ -1,6 +1,6 @@
 # Welcome to the Knowledge Base for the HuMon Research Lab 
 
-## Project Links:
+## Project Links
 Click the following links to see documentation for projects by the HuMoN Lab
 
 - [Slackline Project Docs](https://humon-research-lab.github.io/freemocap_slackline_project/)
@@ -15,7 +15,7 @@ Click the following links to see documentation for projects by the HuMoN Lab
 
 ---
 
-### Page Info
+## Page Info
 The page is built via the `material` theme of mkdocs
 
 Documentation for `mkdocs` lives here - 
