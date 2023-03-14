@@ -1,4 +1,4 @@
-# how to update the humon lab docs
+# How to update the humon lab docs
 
 ## background
 we're updating the docs that live on this repository- 

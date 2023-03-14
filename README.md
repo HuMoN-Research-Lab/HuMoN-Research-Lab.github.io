@@ -20,7 +20,7 @@ A running list of stuff we need to add to the docs
     - make/review a Pull Request
   - Explanation of - Github/git/version control
 
-- How to create/setup/use an virtural environment (e.g. a python environment like from anaconda)
+- How to create/setup/use a virtual environment (e.g. a python environment like from anaconda)
   - how-to 
    - set it up
    - activate it
