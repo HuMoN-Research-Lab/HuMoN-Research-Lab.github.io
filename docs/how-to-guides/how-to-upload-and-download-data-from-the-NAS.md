@@ -2,7 +2,7 @@
 
 This guide provides instructions on how to download/upload data that is collected in the office or lab. 
 
-1. Navigate to quickconnect.to
+1. Navigate to [quickconnect.to](https://quickconnect.to/)
     -
     - QuickConnect ID: "neumocaplab"
     - Username: "numons"
