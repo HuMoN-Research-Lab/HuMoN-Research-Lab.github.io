@@ -5,6 +5,14 @@ Click the following links to see documentation for projects by the HuMoN Lab
 
 - [Slackline Project Docs](https://humon-research-lab.github.io/freemocap_slackline_project/)
 
+## Repository ReadMe Links
+
+- [FreeMoCap ReadMe](https://github.com/freemocap/freemocap#readme)
+- [Skellycam ReadMe](https://github.com/freemocap/skelly_viewer#readme)
+- [Skelly_viewer ReadMe](https://github.com/freemocap/skelly_viewer#readme)
+- [Skelly_synchronize ReadMe](https://github.com/freemocap/skelly_synchronize#readme)
+- [Cookie cutter repo ReadMe](https://github.com/freemocap/basic_repo_cookiecutter)
+
 ### Page Info
 The page is built via the `material` theme of mkdocs
 
